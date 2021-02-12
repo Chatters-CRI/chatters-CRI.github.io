@@ -3,5 +3,12 @@ This is the website of the Chatters project from the HMI group at the University
 
 ## colors
 
+
+### Bright:
 `#ffa400`
 `#51e0dc`
+ 
+
+ ### Muted:
+ `#348f8c`
+ `#377976`

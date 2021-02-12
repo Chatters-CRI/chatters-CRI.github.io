@@ -209,7 +209,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #c1cac5;
+		color: #377976;
 	}
 
 /* About */
@@ -1813,7 +1813,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #c08413;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1851,7 +1851,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #c1cac5;
+			background: #377976;
 		}
 
 			input[type="button"].alt:hover,
@@ -1968,7 +1968,7 @@ input, select, textarea {
 				height: 48px;
 				border-radius: 6px;
 				outline: 0;
-				background: #c1cac5;
+				background: #377976;
 				text-align: center;
 			}
 
@@ -2043,7 +2043,7 @@ input, select, textarea {
 					transition: background-color .2s ease-in-out;
 					display: block;
 					text-align: center;
-					background: #c1cac5;
+					background: #377976;
 					border-radius: 100%;
 					width: 2.25em;
 					height: 2.25em;
@@ -2355,7 +2355,7 @@ input, select, textarea {
 
 			#header .logo p {
 				display: inline;
-				color: #C1CAC5;
+				color: #377976;
 			}
 
 /* Nav */
@@ -2422,17 +2422,17 @@ input, select, textarea {
 			}
 
 			#nav li:hover a, #nav li:hover span {
-				background: #C1CAC5;
+				background: #ffa400;
 				color: #fff;
 			}
 
 			#nav li.active a, #nav li.active span {
-				background: #C1CAC5;
+				background: #377976;
 				color: #fff;
 			}
 
 			#nav li.current a {
-				background: #b1ddab;
+				background: #c08413;
 				color: #fff;
 			}
 
@@ -2560,8 +2560,8 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		/*border-top: solid 5px #b1ddab;*/
-		border-bottom: solid 5px #c1cac5;
+		/*border-top: solid 5px #c08413;*/
+		border-bottom: solid 5px #377976;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
@@ -2617,7 +2617,7 @@ input, select, textarea {
 		}
 
 			#copyright .menu li {
-				border-color: #C1CAC5;
+				border-color: #377976;
 				border-width: 2px;
 				line-height: 1em;
 			}
@@ -2837,7 +2837,7 @@ input, select, textarea {
 						position: absolute;
 						left: 0;
 						top: 0;
-						background: #b1ddab;
+						background: #c08413;
 						width: 44px;
 						height: 44px;
 						content: '\f0c9';
