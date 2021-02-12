@@ -1958,7 +1958,7 @@ input, select, textarea {
 				}
 
 			ul.contact li:hover {
-				top: -5px;
+				
 			}
 
 				ul.contact li:hover a.fa-facebook {
@@ -2032,7 +2032,7 @@ input, select, textarea {
 				}
 
 			ul.special li:hover {
-				top: -1em;
+				
 			}
 
 				ul.special li:hover a:before {
@@ -2349,7 +2349,6 @@ input, select, textarea {
 		left: 0;
 		z-index: 1000;
 		background-color: rgba(255, 255, 255, 0.95);
-		background-image: url("images/overlay.png");
 		width: 100%;
 		height: 3.25em;
 		line-height: 3.25em;
@@ -2398,7 +2397,7 @@ input, select, textarea {
 			}
 
 			#nav li:hover, #nav li.active {
-				top: 3px;
+				
 			}
 
 			#nav li:hover a, #nav li:hover span {
@@ -2623,12 +2622,6 @@ input, select, textarea {
 
 			body, input, textarea, select {
 				font-size: 11pt;
-			}
-
-		/* Special */
-
-			ul.special li a:before {
-				font-size: 60px;
 			}
 
 		/* Box */
