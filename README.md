@@ -4,4 +4,4 @@ This is the website of the Chatters project from the HMI group at the University
 ## colors
 
 `#ffa400`
-`51e0dc`
+`#51e0dc`
