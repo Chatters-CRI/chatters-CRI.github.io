@@ -212,6 +212,27 @@ input, select, textarea {
 		color: #c1cac5;
 	}
 
+/* About */
+
+	.member {
+		text-align: center;
+		
+	}
+	
+	.member img {
+		max-width: 75%;
+		height: auto;
+		border-radius: 50%;
+		border: 4px solid #fff;
+		margin: 0 auto;
+	}
+	
+	.member span {
+		font-style: italic;
+		display: block;
+		font-size: 13px;
+	}
+	
 /* Container */
 
 	.container {
