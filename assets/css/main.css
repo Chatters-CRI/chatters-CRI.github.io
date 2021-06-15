@@ -194,6 +194,12 @@ input, select, textarea {
 		margin-bottom: 3em;
 	}
 
+/* header */
+
+header p span {
+			color: #c08413;
+}
+
 /* Section/Article */
 
 	section, article {
