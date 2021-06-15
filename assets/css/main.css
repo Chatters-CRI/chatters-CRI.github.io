@@ -5,7 +5,16 @@
 	TXT by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+	
+	CHATTERS colors:
+	light blue: #61e3df
+	hover blue: #2da89e
+	grey: #6b7770
+	bright orange: #ffac17
+	hover orange: #c08413
 */
+
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -197,8 +206,12 @@ input, select, textarea {
 /* header */
 
 header p span {
-			color: #c08413;
+			color: #ffac17;
 }
+
+	h1 .chatters{
+		color: #61e3df;
+	}
 
 /* Section/Article */
 
@@ -215,11 +228,24 @@ header p span {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #377976;
+		color: #6b7770;
 	}
 
 /* About */
 
+
+	.fund{
+		display: inline-flex;
+		max-height: 100%;
+		vertical-align: center;
+	}
+	
+	.logodiv{
+		height: 200px;
+		width: 100%;
+		text-align: center; margin: 1em 0;
+	}
+	
 	.member {
 		text-align: center;
 		
@@ -1776,7 +1802,6 @@ header p span {
 			top: 0;
 			width: 100%;
 			height: 100%;
-			background: url("images/overlay.png");
 			border-radius: 8px;
 		}
 
@@ -2049,7 +2074,7 @@ header p span {
 					transition: background-color .2s ease-in-out;
 					display: block;
 					text-align: center;
-					background: #377976;
+					background: #6b7770;
 					border-radius: 100%;
 					width: 2.25em;
 					height: 2.25em;
@@ -2061,10 +2086,6 @@ header p span {
 			ul.special li:hover {
 				
 			}
-
-				ul.special li:hover a:before {
-					background: #b9d2ce;
-				}
 
 /* Meta */
 
@@ -2237,7 +2258,7 @@ header p span {
 	.box.feature {
 		text-align: center;
 	}
-
+	
 	.box.post header {
 		margin: 0 0 2.5em 0;
 	}
@@ -2361,7 +2382,7 @@ header p span {
 
 			#header .logo p {
 				display: inline;
-				color: #377976;
+				color: #6b7770;
 			}
 
 /* Nav */
@@ -2428,7 +2449,7 @@ header p span {
 			}
 
 			#nav li:hover a, #nav li:hover span {
-				background: #ffa400;
+				background: #c08413;
 				color: #fff;
 			}
 
@@ -2438,9 +2459,19 @@ header p span {
 			}
 
 			#nav li.current a {
-				background: #c08413;
+				background: #ffac17;
 				color: #fff;
 			}
+			
+			.logonav {
+				height: 50px;
+				vertical-align: middle;
+			}
+			
+			#nav li.nohover:hover a{
+				background: none;
+			}
+
 
 	.dropotron {
 		list-style: none;
@@ -2568,9 +2599,9 @@ header p span {
 		background: #fff;
 		/*border-top: solid 5px #c08413;*/
 		border-bottom: solid 5px #377976;
-		border-top-width: 35px;
+		/*border-top-width: 35px;*/
 		border-bottom-width: 10px;
-		padding: 6em 0 6em 0;
+		padding: 0 0 6em 0;
 	}
 
 /* Sidebar + Content */
@@ -2696,7 +2727,7 @@ header p span {
 		/* Main */
 
 			#main {
-				border-top-width: 20px;
+				/*border-top-width: 20px;*/
 				border-bottom-width: 10px;
 			}
 
@@ -3086,7 +3117,7 @@ header p span {
 		/* Main */
 
 			#main {
-				padding: 3em 0;
+				padding: 1em 0;
 			}
 
 		/* Sidebar */
