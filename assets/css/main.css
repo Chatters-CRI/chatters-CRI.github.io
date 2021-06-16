@@ -1844,7 +1844,7 @@ header p span {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #c08413;
+		background: #ffac17;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1866,7 +1866,7 @@ header p span {
 		input[type="reset"]:hover,
 		button:hover,
 		.button:hover {
-			background: #c1edbb;
+			background: #c08413;
 		}
 
 		input[type="button"]:active,
@@ -2598,7 +2598,7 @@ header p span {
 	#main {
 		background: #fff;
 		/*border-top: solid 5px #c08413;*/
-		border-bottom: solid 5px #377976;
+		border-bottom: solid 5px #ffac17;
 		/*border-top-width: 35px;*/
 		border-bottom-width: 10px;
 		padding: 0 0 6em 0;
