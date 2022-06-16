@@ -511,7 +511,7 @@ header p span {
 		}
 
 			.row > * {
-				padding: 50px 0 0 50px;
+				padding: 50px 0px 50px 0px;
 			}
 
 			.row.gtr-uniform {
@@ -754,7 +754,7 @@ header p span {
 				}
 
 					.row > * {
-						padding: 50px 0 0 50px;
+						padding: 50px 0px 50px 0px;
 					}
 
 					.row.gtr-uniform {
@@ -1244,7 +1244,7 @@ header p span {
 				}
 
 					.row > * {
-						padding: 50px 0 0 50px;
+						padding: 50px 0px 50px 0px;
 					}
 
 					.row.gtr-uniform {
@@ -2364,7 +2364,7 @@ header p span {
 		#header .logo {
 			position: relative;
 			text-align: center;
-			border-top: solid 5px #e7eae8;
+			/*border-top: solid 5px #e7eae8;*/
 			top: 0.65em;
 		}
 
