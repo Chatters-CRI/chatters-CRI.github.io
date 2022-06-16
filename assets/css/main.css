@@ -511,6 +511,10 @@ header p span {
 		}
 
 			.row > * {
+				padding: 50px 0px 0px 50px;
+			}
+			
+			.row.team > * {
 				padding: 50px 0px 50px 0px;
 			}
 
@@ -754,6 +758,10 @@ header p span {
 				}
 
 					.row > * {
+						padding: 50px 0px 0px 50px;
+					}
+					
+					.row.team > * {
 						padding: 50px 0px 50px 0px;
 					}
 
@@ -1244,6 +1252,10 @@ header p span {
 				}
 
 					.row > * {
+						padding: 50px 0px 0px 50px;
+					}
+					
+					.row.team > * {
 						padding: 50px 0px 50px 0px;
 					}
 
