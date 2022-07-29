@@ -217,6 +217,7 @@ header p span {
 
 	section, article {
 		margin-bottom: 6em;
+		/*background-color: #353c37;*/
 	}
 
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
@@ -2279,7 +2280,7 @@ header p span {
 		font-size: 3em;
 		margin: 0 0 0.25em 0;
 	}
-
+	
 	.box.post header > p {
 		font-size: 1.65em;
 		margin: 0 0 0.5em 0;
@@ -2293,7 +2294,7 @@ header p span {
 		line-height: 1em;
 		margin: 0 0 0.75em 0;
 	}
-
+	
 	.box.post-summary .meta {
 		margin: 0;
 		line-height: 1em;
@@ -2302,8 +2303,8 @@ header p span {
 	.box.page-content header {
 		margin: 0 0 2.5em 0;
 	}
-
-	.box.page-content h2 {
+	
+	.box.page-content h2 {		
 		font-size: 3em;
 		margin: 0 0 0.5em 0;
 	}
